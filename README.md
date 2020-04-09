@@ -13,17 +13,18 @@ The goal of this project is to develop a website to consolidate on the effort of
 
 3. create a issue branch eg branch-name
  
-  ` basb
-   git checkout -b &lt;branch-name &gt;
-   `
+  ``` bash
+   git checkout -b <branch-name>
+   ```
 4. Commit your changes
-  ` bash
-  git commit -m "&lt;your commit message&gt;"
+  ``` bash
+      git commit -m "<your commit message>"
+  ```
 
 5. push to the issue branch
 
- ` bash
- git push origin &lt;branch-name&gt;
- `
+ ``` bash
+ git push origin <branch-name>;
+ ```
 
 6. Create a new Pull Request
